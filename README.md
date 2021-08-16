@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on autonomous navigation.
-- 📫 How to reach me ...
+- 📫 How to reach me jinyuting1990@gmail.com
 
 <!---
 ddg1001/ddg1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
